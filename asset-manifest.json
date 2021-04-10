@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.8ed7af53.chunk.css",
-    "main.js": "/static/js/main.f78e3698.chunk.js",
-    "main.js.map": "/static/js/main.f78e3698.chunk.js.map",
+    "main.js": "/static/js/main.e280893b.chunk.js",
+    "main.js.map": "/static/js/main.e280893b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cfb13fe7.js",
     "runtime-main.js.map": "/static/js/runtime-main.cfb13fe7.js.map",
     "static/css/2.b4ebbe46.chunk.css": "/static/css/2.b4ebbe46.chunk.css",
-    "static/js/2.a185d85a.chunk.js": "/static/js/2.a185d85a.chunk.js",
-    "static/js/2.a185d85a.chunk.js.map": "/static/js/2.a185d85a.chunk.js.map",
+    "static/js/2.3c95df3c.chunk.js": "/static/js/2.3c95df3c.chunk.js",
+    "static/js/2.3c95df3c.chunk.js.map": "/static/js/2.3c95df3c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b4ebbe46.chunk.css.map": "/static/css/2.b4ebbe46.chunk.css.map",
     "static/css/main.8ed7af53.chunk.css.map": "/static/css/main.8ed7af53.chunk.css.map",
-    "static/js/2.a185d85a.chunk.js.LICENSE.txt": "/static/js/2.a185d85a.chunk.js.LICENSE.txt",
+    "static/js/2.3c95df3c.chunk.js.LICENSE.txt": "/static/js/2.3c95df3c.chunk.js.LICENSE.txt",
     "static/media/crit-city.3bab2d0f.png": "/static/media/crit-city.3bab2d0f.png",
     "static/media/france.5e310dc4.png": "/static/media/france.5e310dc4.png",
     "static/media/innsbruck.9821ed90.png": "/static/media/innsbruck.9821ed90.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.cfb13fe7.js",
     "static/css/2.b4ebbe46.chunk.css",
-    "static/js/2.a185d85a.chunk.js",
+    "static/js/2.3c95df3c.chunk.js",
     "static/css/main.8ed7af53.chunk.css",
-    "static/js/main.f78e3698.chunk.js"
+    "static/js/main.e280893b.chunk.js"
   ]
 }
