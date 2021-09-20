@@ -6,12 +6,12 @@
     "runtime-main.js": "/static/js/runtime-main.0d3e0027.js",
     "runtime-main.js.map": "/static/js/runtime-main.0d3e0027.js.map",
     "static/css/2.da98c186.chunk.css": "/static/css/2.da98c186.chunk.css",
-    "static/js/2.8cf2431c.chunk.js": "/static/js/2.8cf2431c.chunk.js",
-    "static/js/2.8cf2431c.chunk.js.map": "/static/js/2.8cf2431c.chunk.js.map",
+    "static/js/2.d30d3bd8.chunk.js": "/static/js/2.d30d3bd8.chunk.js",
+    "static/js/2.d30d3bd8.chunk.js.map": "/static/js/2.d30d3bd8.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.da98c186.chunk.css.map": "/static/css/2.da98c186.chunk.css.map",
     "static/css/main.d6213df1.chunk.css.map": "/static/css/main.d6213df1.chunk.css.map",
-    "static/js/2.8cf2431c.chunk.js.LICENSE.txt": "/static/js/2.8cf2431c.chunk.js.LICENSE.txt",
+    "static/js/2.d30d3bd8.chunk.js.LICENSE.txt": "/static/js/2.d30d3bd8.chunk.js.LICENSE.txt",
     "static/media/bologna.6f13d4d4.png": "/static/media/bologna.6f13d4d4.png",
     "static/media/crit-city.3bab2d0f.png": "/static/media/crit-city.3bab2d0f.png",
     "static/media/france.aded90ff.png": "/static/media/france.aded90ff.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.0d3e0027.js",
     "static/css/2.da98c186.chunk.css",
-    "static/js/2.8cf2431c.chunk.js",
+    "static/js/2.d30d3bd8.chunk.js",
     "static/css/main.d6213df1.chunk.css",
     "static/js/main.30068a0d.chunk.js"
   ]
