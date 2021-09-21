@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6213df1.chunk.css",
+    "main.css": "/static/css/main.7abaa2b6.chunk.css",
     "main.js": "/static/js/main.30068a0d.chunk.js",
     "main.js.map": "/static/js/main.30068a0d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0d3e0027.js",
@@ -10,7 +10,7 @@
     "static/js/2.d30d3bd8.chunk.js.map": "/static/js/2.d30d3bd8.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.da98c186.chunk.css.map": "/static/css/2.da98c186.chunk.css.map",
-    "static/css/main.d6213df1.chunk.css.map": "/static/css/main.d6213df1.chunk.css.map",
+    "static/css/main.7abaa2b6.chunk.css.map": "/static/css/main.7abaa2b6.chunk.css.map",
     "static/js/2.d30d3bd8.chunk.js.LICENSE.txt": "/static/js/2.d30d3bd8.chunk.js.LICENSE.txt",
     "static/media/bologna.6f13d4d4.png": "/static/media/bologna.6f13d4d4.png",
     "static/media/crit-city.3bab2d0f.png": "/static/media/crit-city.3bab2d0f.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.0d3e0027.js",
     "static/css/2.da98c186.chunk.css",
     "static/js/2.d30d3bd8.chunk.js",
-    "static/css/main.d6213df1.chunk.css",
+    "static/css/main.7abaa2b6.chunk.css",
     "static/js/main.30068a0d.chunk.js"
   ]
 }
