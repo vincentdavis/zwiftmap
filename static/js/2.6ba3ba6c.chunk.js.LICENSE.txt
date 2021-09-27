@@ -38,8 +38,6 @@ PERFORMANCE OF THIS SOFTWARE.
 
 /*! Conditions:: INITIAL */
 
-/*! Production::    $accept : expression $end */
-
 /*! Production::    css_value : ANGLE */
 
 /*! Production::    css_value : CHS */

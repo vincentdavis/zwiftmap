@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7abaa2b6.chunk.css",
-    "main.js": "/static/js/main.dac672f1.chunk.js",
-    "main.js.map": "/static/js/main.dac672f1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0d3e0027.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0d3e0027.js.map",
+    "main.js": "/static/js/main.87dc42da.chunk.js",
+    "main.js.map": "/static/js/main.87dc42da.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.452b548f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.452b548f.js.map",
     "static/css/2.da98c186.chunk.css": "/static/css/2.da98c186.chunk.css",
-    "static/js/2.00fea3c9.chunk.js": "/static/js/2.00fea3c9.chunk.js",
-    "static/js/2.00fea3c9.chunk.js.map": "/static/js/2.00fea3c9.chunk.js.map",
+    "static/js/2.6ba3ba6c.chunk.js": "/static/js/2.6ba3ba6c.chunk.js",
+    "static/js/2.6ba3ba6c.chunk.js.map": "/static/js/2.6ba3ba6c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.da98c186.chunk.css.map": "/static/css/2.da98c186.chunk.css.map",
     "static/css/main.7abaa2b6.chunk.css.map": "/static/css/main.7abaa2b6.chunk.css.map",
-    "static/js/2.00fea3c9.chunk.js.LICENSE.txt": "/static/js/2.00fea3c9.chunk.js.LICENSE.txt",
+    "static/js/2.6ba3ba6c.chunk.js.LICENSE.txt": "/static/js/2.6ba3ba6c.chunk.js.LICENSE.txt",
     "static/media/bologna.6f13d4d4.png": "/static/media/bologna.6f13d4d4.png",
     "static/media/crit-city.3bab2d0f.png": "/static/media/crit-city.3bab2d0f.png",
     "static/media/france.aded90ff.png": "/static/media/france.aded90ff.png",
@@ -26,10 +26,10 @@
     "static/media/yorkshire.b83235cf.png": "/static/media/yorkshire.b83235cf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d3e0027.js",
+    "static/js/runtime-main.452b548f.js",
     "static/css/2.da98c186.chunk.css",
-    "static/js/2.00fea3c9.chunk.js",
+    "static/js/2.6ba3ba6c.chunk.js",
     "static/css/main.7abaa2b6.chunk.css",
-    "static/js/main.dac672f1.chunk.js"
+    "static/js/main.87dc42da.chunk.js"
   ]
 }
